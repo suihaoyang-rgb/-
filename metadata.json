@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Green Behavior Points System",
+  "description": "An interactive system for logging green behaviors, collecting Green Points, tracking ESG scores, and viewing team rankings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
